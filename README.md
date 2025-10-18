@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **books, science, travel, philosophy.**
 -  ⚡ Fun fact **I am into Dostoevsky, Kafka, Camus...**
-- 📚 I read Urdu literature, especially the travelogues of Mustansar Hussain Tarar and novels by Abdullah Hussain.
+- 📚 I love Urdu literature, especially the Mustansar Hussain Tarar's travelogues and Abdullah Hussain's novels.
 
 - 📫 How to reach me **iashabbir12@gmail.com**
 
