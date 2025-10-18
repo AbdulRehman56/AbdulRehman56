@@ -5,12 +5,11 @@
 - 👨‍💻 I'm into **competitive programming**. <link>https://www.leetcode.com/abdulrehmankhan</link>
 
 - 💬 Ask me about **books, science, travel, philosophy.**
-  ### 📚 Interests
-I read Urdu literature, especially the travelogues of Mustansar Hussain Tarar and novels by Abdullah Hussain.
+-  ⚡ Fun fact **I am into Dostoevsky, Kafka, Camus...**
+- 📚 I read Urdu literature, especially the travelogues of Mustansar Hussain Tarar and novels by Abdullah Hussain.
 
 - 📫 How to reach me **iashabbir12@gmail.com**
 
-- ⚡ Fun fact **I am into Dostoevsky, Kafka, Camus...**
 - <a href="https://gitlab.com/iashabbir12" target="_blank">GitLab</a>
 
 - <a href="https://github.com/abdulrehmanuni" target="_blank">Other Github (prev main)</a>
