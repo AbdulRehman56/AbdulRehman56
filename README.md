@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman Khan</h1>
 <h3 align="center">A passionate programmer from Pakistan.</h3>
 
-- 🌱 I’m currently learning **Mern Stack, PHP Laravel**
+- 🌱 I’m currently focused on **GoLang and PHP Laravel**, exploring technologies like **Kafka** and **MinIO (S3)** to build **scalable and efficient microservices**. 
 - 👨‍💻 I'm into **competitive programming**. <link>https://www.leetcode.com/abdulrehmankhan</link>
 
 - 💬 Ask me about **books, ai , science, travel, philosophy.**
@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I am into Dostoevsky, Kafka, Camus...**
 - <a href="https://gitlab.com/iashabbir12" target="_blank">GitLab</a>
 
-- <a href="https://github.com/abdulrehmanuni" target="_blank">Other Github (main)</a>
+- <a href="https://github.com/abdulrehmanuni" target="_blank">Other Github (prev main)</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
