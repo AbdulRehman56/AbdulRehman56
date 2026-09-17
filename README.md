@@ -118,10 +118,3 @@ fun_fact: "A good travelogue and a clean commit log hit the same spot."
 I read a lot. Russian novels, Camus, and Urdu travelogues — especially Mustansar Hussain Tarar's wanderings and Abdullah Hussain's long, heavy fiction. Happy to trade book recommendations any day.
 
 ---
-
-### 🤝 Let's connect
-📬 Reach me at **iashabbir12@gmail.com**
-
-<p align="center">
-  <sub>⌨️ with ❤️ from Pakistan</sub>
-</p>
